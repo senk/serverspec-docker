@@ -1,4 +1,6 @@
 ## Testing Dockerfiles with Serverspec
+based on [Test Drive Your Dockerfiles with RSpec and ServerSpec](https://robots.thoughtbot.com/tdd-your-dockerfiles-with-rspec-and-serverspec) by [@masonforest](https://github.com/masonforest)
+
 Usage: `rspec Dockerfile_spec.rb`
 
 Example output: 
